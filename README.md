@@ -1,5 +1,5 @@
 ## <img height="25em" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"> Hi, i'm Luiz Ricardo
-<img align="right" height="420em" src="https://raw.githubusercontent.com/gist/lurickardo/c40e391daf6c61979277cef5993650ad/raw/273675507f7d10d73ce6ca07876e9a711917457b/githugcardnlw.svg">
+<img align="right" height="450em" src="https://raw.githubusercontent.com/gist/lurickardo/c40e391daf6c61979277cef5993650ad/raw/273675507f7d10d73ce6ca07876e9a711917457b/githugcardnlw.svg">
 
 - 👨‍💻 I’m currently working at SKY Brasil
 
