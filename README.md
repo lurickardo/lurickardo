@@ -1,10 +1,7 @@
 ## Olá, meu nome é Luiz Ricardo, e esse é meu perfil.
- <div>
-  <a href="https://luizricardosantos.com.br">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lurickardo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-    &nbsp;&nbsp;&nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lurickardo&layout=compact&langs_count=7&theme=omni"/>
-</div>
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Lurickardo&theme=omni&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  <img height="195em" src="https://github-readme-stats.vercel.app/api?username=lurickardo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lurickardo&layout=compact&langs_count=7&theme=omni"/>
 <div style="display: inline_block"><br>
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="typescript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg">
