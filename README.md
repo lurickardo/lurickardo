@@ -36,8 +36,8 @@
   <a href="https://www.twitch.tv/lurickardo" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a> 
  
 ## ⚙️  GitHub Analytics
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lurickardo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lurickardo&layout=compact&langs_count=7&theme=omni"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lurickardo&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/>
+  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lurickardo&layout=compact&langs_count=7&theme=omni"/>
   
  ![Snake animation](https://github.com/lurickardo/lurickardo/blob/output/github-contribution-grid-snake.svg)
  
