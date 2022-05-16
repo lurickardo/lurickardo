@@ -13,7 +13,7 @@
 
 - 📽️ I ❤️ movies and series
   
-## :abacus: Stacks
+## 🧮 Stacks
 
 <div style="display: inline_block"><br>
   <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
@@ -27,7 +27,7 @@
 </div>
 </br>
 
-##
+## 🌐 Social media
 <div> 
   <a href="mailto:luizr726@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
   <a href="https://www.linkedin.com/in/luiz-ricardo-soares-dos-santos-08580817b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
