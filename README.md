@@ -38,6 +38,6 @@
   <img height="190em" src="https://github-readme-stats.vercel.app/api?username=lurickardo&show_icons=true&theme=omni&include_all_commits=true&count_private=true&border_radius=6&hide_border=true"/>
   <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lurickardo&layout=compact&langs_count=7&theme=omni&border_radius=6&hide_border=true"/>
   
- ![snake animation](https://github.com/lurickardo/lurickardo/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/lurickardo/lurickardo/blob/output/github-contribution-grid-snake2.svg)
  
 </div>
