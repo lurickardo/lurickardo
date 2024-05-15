@@ -1,8 +1,6 @@
 ## <img height="25em" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"> Hi, i'm Luiz Ricardo
 <img align="right" height="450em" src="https://raw.githubusercontent.com/gist/lurickardo/e81823d4a820dbf1149c211e6aae143f/raw/893c1b693cef82dbefa6e08f4da91263d1aeac27/githugcardnlw.svg">
 
-- 👨‍💻 I’m currently working at <a href="https://www.sky.com.br/" target="_blank">SKY Brasil</a>
-
 - 👨‍💼 I work as a back-end developer
 
 - 🎓 Graduated in Systems Analysis and Development
